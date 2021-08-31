@@ -1,0 +1,3 @@
+[submodule "deps/tlc-cmd"]
+	path = deps/tlc-cmd
+	url = https://github.com/tangruize/tlc-cmd
